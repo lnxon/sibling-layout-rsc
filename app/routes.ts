@@ -10,7 +10,7 @@ export default [
   ]),
   */
 
-  // routes in sibling layout
+  // routes in sibling layouts
   
   layout("layouts/layout-a.tsx", [route("/route-a", "routes/route-a.tsx")]),
   layout("layouts/layout-b.tsx", [route("/route-b", "routes/route-b.tsx")]),
