@@ -1,3 +1,10 @@
+# Reproduction app for issue #14777
+The issue #14777 has been resolved with update to react-router 7.13.1-pre.0.
+
+This repo's dependency (packages.json) **has been updated to react-router 7.13.1-pre.0** and the issue NO LONGER is reproduced.
+
+To see the issue' symptom please downgrade to any version prior to 7.13.1.
+
 # Welcome to React Router! (Experimental RSC)
 
 ⚠️ **EXPERIMENTAL**: This template demonstrates React Server Components with React Router. This is experimental technology and not recommended for production use.
