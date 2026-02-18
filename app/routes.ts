@@ -11,6 +11,7 @@ export default [
   */
 
   // routes in sibling layouts
+  // patch applied from react-router "7.13.1-pre.0"
   
   layout("layouts/layout-a.tsx", [route("/route-a", "routes/route-a.tsx")]),
   layout("layouts/layout-b.tsx", [route("/route-b", "routes/route-b.tsx")]),
